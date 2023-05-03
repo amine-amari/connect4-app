@@ -1,0 +1,30 @@
+.board {
+  margin: 5rem;
+}
+
+.row-container {
+  display: flex;
+  gap: 3rem;
+  margin-bottom: 1rem;
+}
+
+.cell {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: blue;
+}
+
+.cell-red {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.cell-yellow {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: yellow;
+}
